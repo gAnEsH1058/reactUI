@@ -1,6 +1,6 @@
 {
-  "name": "mcs_gui",
-  "version": "28.3.3",
+  "name": "ei_web",
+  "version": "1.0.0",
   "homepage": "/apis/web-client",
   "private": true,
   "scripts": {
@@ -62,6 +62,8 @@
     "reactstrap": "^8.4.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^1.0.0",
     "webpack-isomorphic-tools": "^3.0.6"
   }
 }
